@@ -9,6 +9,10 @@
     "mocha": "*",
     "chai": "*",
     "chai-fs": "*",
-    "LiveScript": "~1.2.0"
+    "LiveScript": "~1.2.0",
+    "ninja-build-gen": "~0.1.3",
+    "ninja-build": "~0.1.5",
+    "glob": "~3.2.8",
+    "lodash": "~2.4.1"
   }
 }

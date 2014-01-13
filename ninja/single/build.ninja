@@ -1,0 +1,6 @@
+ninja_required_version = 1.3
+rule cat
+  command = cat $in > $out
+build to.txt: cat from.txt
+build phony default: phony to.txt
+default default
