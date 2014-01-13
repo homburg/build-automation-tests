@@ -1,0 +1,14 @@
+{
+  "name": "make-tests",
+  "version": "0.0.0",
+  "description": "Test various build automation tools",
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "chai-fs": "*",
+    "LiveScript": "~1.2.0"
+  }
+}
